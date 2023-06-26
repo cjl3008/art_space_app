@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="artist1">Adam Kontor</string>
+    <string name="title1">Rear View of a Woman Overlooking Calm Lake</string>
+    <string name="year1">(2017)</string>
+    <string name="artist2">Sunil Poudel</string>
+    <string name="title2">Beige and Brown Temple</string>
+    <string name="year2">(2019)</string>
+    <string name="artist3">Stijn Dijkstra</string>
+    <string name="title3">Car on street of Tulum, Mexico</string>
+    <string name="year3">(2022)</string>
+    <string name="artist4">Dylan McDonald</string>
+    <string name="title4">Nutcrackers in front of a Christmas tree</string>
+    <string name="year4">(2020)</string>
+    <string name="artist5">Warren</string>
+    <string name="title5">Person with pink smoke grenade</string>
+    <string name="year5">(2017)</string>
+    <string name="button_prev">Previous</string>
+    <string name="button_next">Next</string>
+</resources>
